@@ -127,6 +127,34 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="assets\img\action-bg.jpg" />
+    <Content Include="assets\img\carousel-1.jpg" />
+    <Content Include="assets\img\carousel-2.jpg" />
+    <Content Include="assets\img\carousel-3.jpg" />
+    <Content Include="assets\img\client-bg.jpg" />
+    <Content Include="assets\img\content-bg-cover.png" />
+    <Content Include="assets\img\content-bg-cover2.png" />
+    <Content Include="assets\img\home-bg.jpg" />
+    <Content Include="assets\img\img-1.jpg" />
+    <Content Include="assets\img\img-2.jpg" />
+    <Content Include="assets\img\img-3.jpg" />
+    <Content Include="assets\img\img-4.jpg" />
+    <Content Include="assets\img\logo.png" />
+    <Content Include="assets\img\mapua.jpg" />
+    <Content Include="assets\img\milestone-bg.jpg" />
+    <Content Include="assets\img\quote-bg.jpg" />
+    <Content Include="assets\img\quote.jpg" />
+    <Content Include="assets\img\user-1.jpg" />
+    <Content Include="assets\img\user-2.jpg" />
+    <Content Include="assets\img\user-3.jpg" />
+    <Content Include="assets\img\work-1.jpg" />
+    <Content Include="assets\img\work-2.jpg" />
+    <Content Include="assets\img\work-3.jpg" />
+    <Content Include="assets\img\work-4.jpg" />
+    <Content Include="assets\img\work-5.jpg" />
+    <Content Include="assets\img\work-6.jpg" />
+    <Content Include="assets\img\work-7.jpg" />
+    <Content Include="assets\img\work-8.jpg" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
@@ -428,6 +456,12 @@
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\Shared\_Header.cshtml" />
+    <Content Include="Views\Home\_About.cshtml" />
+    <Content Include="Views\Home\_Service.cshtml" />
+    <Content Include="Views\Home\_Content1.cshtml" />
+    <Content Include="Views\Home\_Content2.cshtml" />
+    <Content Include="Views\Home\_Contact.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
